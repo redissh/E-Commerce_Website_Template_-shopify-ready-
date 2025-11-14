@@ -1,5 +1,5 @@
 <h2 align="center">
-  My Portfolio Website <br/>
+  A Shopify-ready E-Commerce Website Template <br/>
 </h2>
  
 <a href="https://f8z0cf-np.myshopify.com/" target="_blank"><img src="demoimg.png" height= "1900px" width= "904px" ></a> 
