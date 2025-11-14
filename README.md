@@ -6,7 +6,7 @@
 
 <p align="center"><font size="7">(click the image to visit the website)</font></p>
 
-<mark>PASSWORD:<mark/>        BEBESTORE
+<mark>PASSWORD:</mark>        BEBESTORE
 
 This project was built using:
 
