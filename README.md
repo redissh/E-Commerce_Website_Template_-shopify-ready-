@@ -10,7 +10,8 @@
 
 ## PASSWORD
 
-The page is password-protected as i currently don't own a domain for it. PASSWORD: BEBESTORE
+The page is password-protected as i currently don't own a domain for it. 
+PASSWORD: BEBESTORE
 
 ## Built With
 
