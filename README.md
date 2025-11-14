@@ -2,7 +2,7 @@
   My Portfolio Website <br/>
 </h2>
  
-<a href="https://f8z0cf-np.myshopify.com/" target="_blank"><img src="demoimg1.png" height= "1900px" width= "904px" ></a> 
+<a href="https://f8z0cf-np.myshopify.com/" target="_blank"><img src="demoimg.png" height= "1900px" width= "904px" ></a> 
 
 <p align="center"><font size="7">(click the image to visit the website)</font></p>
 
