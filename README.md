@@ -1,7 +1,13 @@
 <h2 align="center">
   A Shopify-ready E-Commerce Website Template <br/>
 </h2>
- 
+
+mark {
+  background: linear-gradient(-100deg, hsla(48,92%,75%,.3), hsla(48,92%,75%,.7) 95%, hsla(48,92%,75%,.1));
+  border-radius: 1em 0;
+  padding: .5rem;
+}
+
 <a href="https://f8z0cf-np.myshopify.com/" target="_blank"><img src="demoimg.png" height= "1900px" width= "904px" ></a> 
 
 <p align="center"><font size="7">(click the image to visit the website)</font></p>
