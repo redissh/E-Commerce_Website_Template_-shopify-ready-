@@ -35,7 +35,7 @@ This project was built using these technologies.
 
 1. Installation:  <a href="template.zip" target="_blank">download</a> `template.zip`
 
-2. In the the shopify theme selection, you can upload the `template.zip` file
+2. In the the shopify theme selection, upload the `template.zip` file
 
 ### Show your support
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/armsulaj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armendsulaj/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Redissh) 
