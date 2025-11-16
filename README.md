@@ -33,7 +33,7 @@ This project was built using these technologies.
 
 ## 🛠 Setup Instructions
 
-1. Installation: `download template.zip`
+1. Installation:  <a href="template.zip" target="_blank">download</a> `template.zip`
 
 2. In the the shopify theme selection, you can upload the `template.zip` file
 
